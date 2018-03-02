@@ -1,2 +1,2 @@
 # Sentence-Length
-This is a JavaScript Program that finds the longest word in a sentence and the length of the sentence itself.
+This is a JavaScript Program that finds the longest word in a sentence and the length of the sentence itself. Please enter the sentence that you would like to test into the prompt window. After you press Ok or the Enter key on your keyboard, you will see an alert window with the length of the longest word, the longest word itself, and how many words were in your sentence. Please feel free to test this as many times as you would like. 
